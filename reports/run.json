@@ -1,0 +1,12 @@
+{
+  "generated_at_utc": "2026-10-26T11:26:55+00:00",
+  "python": "3.12.10",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "numpy": "2.5.4",
+  "pandas": "3.1.0",
+  "scikit_learn": "1.9.1",
+  "lightgbm": "4.7.0",
+  "raw_sha256": "74adfc578bf77a7ff4bb1ba4a9f8709d9e3c6907342959c2c8416847e0afb4d8",
+  "raw_bytes": 5834924,
+  "seed": 42
+}
