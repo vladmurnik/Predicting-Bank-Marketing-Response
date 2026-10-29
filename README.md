@@ -2,10 +2,6 @@
 
 **English** · [Русский](README.ru.md)
 
-I'm 17 and I've been writing code since I was 14. This is the project where I
-stopped chasing a pretty leaderboard score and started asking a more annoying
-question: would this model survive contact with reality?
-
 It's a binary classifier on the UCI Bank Marketing dataset. Given a client and
 the campaign context, will they subscribe to a term deposit?
 
